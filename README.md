@@ -11,3 +11,12 @@ Prerequisites
 To run the weather data collecting tool, you need to have the following prerequisites installed:
 
 Python 3: The tool is written in Python, so you need to have Python 3 installed on your system. You can download Python from the official website: Python.org.
+
+How to run it
+
+1) Basically first run the code
+2) the write Python weather.py place(you want to know the weather of ) in terminal
+example Python weather.py Australia
+3) Press enter you get all the weather report parameters 
+
+Thank you 
